@@ -1,0 +1,3 @@
+src/.flask_session
+__pycache__
+*.pyc

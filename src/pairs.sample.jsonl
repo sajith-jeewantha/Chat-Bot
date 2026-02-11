@@ -1,0 +1,5 @@
+The repository includes src/pairs.sample.jsonl as an example.
+Place your full dataset at src/pairs.jsonl before running the chatbot.
+
+In bot
+ds = load_dataset("openbmb/UltraChat", split="train", streaming=True)
