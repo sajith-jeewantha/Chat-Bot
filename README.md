@@ -82,13 +82,9 @@ Your feedback and suggestions are always welcome.
 If this project helped you, please consider ⭐ starring the repo.
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sajith-jeewantha)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/sajith-jeewantha)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 
